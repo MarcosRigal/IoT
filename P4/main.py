@@ -5,7 +5,7 @@ from time import sleep
 import network
 import uasyncio as asyncio
 import ubinascii
-from drivers.sx127x import SX127x
+from sx127x import SX127x
 from machine import SPI, Pin
 from umqttsimple import MQTTClient
 

@@ -1,6 +1,4 @@
-# README
-
-## LED Control via Wi-Fi with ESP32
+# Session 1: LED Control via HTTP with ESP32
 
 This project is a Python-based program designed for an ESP32 microcontroller. It allows you to control an onboard LED via an HTTP server over a Wi-Fi connection. Users can send HTTP requests to turn the LED on or off and receive status feedback.
 
